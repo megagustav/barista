@@ -1,0 +1,951 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=10" />
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://lynweber.com/xmlrpc.php" />
+	<title>LWW &#8211; precision barista tools</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="LWW &raquo; Feed" href="https://lynweber.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="LWW &raquo; Comments Feed" href="https://lynweber.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/lynweber.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://lynweber.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='single-testimonial-block-css'  href='https://lynweber.com/wp-content/plugins/easy-testimonials/blocks/single-testimonial/style.css?ver=1547564608' type='text/css' media='all' />
+<link rel='stylesheet' id='random-testimonial-block-css'  href='https://lynweber.com/wp-content/plugins/easy-testimonials/blocks/random-testimonial/style.css?ver=1547564608' type='text/css' media='all' />
+<link rel='stylesheet' id='testimonials-list-block-css'  href='https://lynweber.com/wp-content/plugins/easy-testimonials/blocks/testimonials-list/style.css?ver=1547564608' type='text/css' media='all' />
+<link rel='stylesheet' id='testimonials-cycle-block-css'  href='https://lynweber.com/wp-content/plugins/easy-testimonials/blocks/testimonials-cycle/style.css?ver=1547564608' type='text/css' media='all' />
+<link rel='stylesheet' id='testimonials-grid-block-css'  href='https://lynweber.com/wp-content/plugins/easy-testimonials/blocks/testimonials-grid/style.css?ver=1547564608' type='text/css' media='all' />
+<link rel='stylesheet' id='advanced-flat-rate-shipping-for-woocommerce-css'  href='https://lynweber.com/wp-content/plugins/advanced-flat-rate-shipping-for-woocommerce/public/css/advanced-flat-rate-shipping-for-woocommerce-public.css?ver=3.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-min-css'  href='https://lynweber.com/wp-content/plugins/advanced-flat-rate-shipping-for-woocommerce/public/css/font-awesome.min.css?ver=3.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://lynweber.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='easy_testimonials_webfonts-css'  href='https://fonts.googleapis.com/css?family=Lato&#038;ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='easy_testimonial_style-css'  href='https://lynweber.com/wp-content/plugins/easy-testimonials/include/assets/css/style.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://lynweber.com/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.10.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://lynweber.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.2' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='theme-my-login-css'  href='https://lynweber.com/wp-content/plugins/theme-my-login/assets/styles/theme-my-login.min.css?ver=7.0.12' type='text/css' media='all' />
+<link rel='stylesheet' id='rp-wcdpd-frontend-styles-css'  href='https://lynweber.com/wp-content/plugins/wc-dynamic-pricing-and-discounts/assets/css/style-frontend.css?ver=1.0.18' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://lynweber.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.5.4' type='text/css' media='all' />
+<style id='woocommerce-layout-inline-css' type='text/css'>
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+</style>
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://lynweber.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.5.4' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://lynweber.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.5.4' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='parent-style-css'  href='https://lynweber.com/wp-content/themes/vantage/style.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='vantage-style-css'  href='https://lynweber.com/wp-content/themes/vantage-child/style.css?ver=2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://lynweber.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='vantage-woocommerce-css'  href='https://lynweber.com/wp-content/themes/vantage/css/woocommerce.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='siteorigin-mobilenav-css'  href='https://lynweber.com/wp-content/themes/vantage/inc/mobilenav/css/mobilenav.css?ver=2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='woodojo_tabs-css'  href='https://lynweber.com/wp-content/plugins/woodojo/bundled/woodojo-tabs/assets/css/style.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wcwl_frontend-css'  href='https://lynweber.com/wp-content/plugins/woocommerce-waitlist/includes/css/src/wcwl_frontend.min.css?ver=1.8.9' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='//lynweber.com/wp-content/uploads/js_composer/js_composer_front_custom.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-Defaults-css'  href='https://lynweber.com/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=5.1.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://lynweber.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var my_ajax_object = {"ajax_url":"https:\/\/lynweber.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/advanced-flat-rate-shipping-for-woocommerce/public/js/advanced-flat-rate-shipping-for-woocommerce-public.js?ver=3.0.4'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.2'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var themeMyLogin = {"action":"","errors":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/theme-my-login/assets/scripts/theme-my-login.min.js?ver=7.0.12'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/wc-dynamic-pricing-and-discounts/assets/js/scripts-frontend.js?ver=1.0.18'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/lynweber.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.5.4'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=5.6'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/themes/vantage/js/jquery.flexslider.min.js?ver=2.1'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/themes/vantage/js/jquery.touchSwipe.min.js?ver=1.6.6'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/themes/vantage/js/jquery.theme-main.min.js?ver=2.6'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/themes/vantage/js/jquery.fitvids.min.js?ver=1.0'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://lynweber.com/wp-content/themes/vantage/js/html5.min.js?ver=3.7.3'></script>
+<![endif]-->
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type='text/javascript' src='https://lynweber.com/wp-content/themes/vantage/js/selectivizr.min.js?ver=1.0.2'></script>
+<![endif]-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mobileNav = {"search":{"url":"https:\/\/lynweber.com","placeholder":"Search"},"text":{"navigate":"Menu","back":"Back","close":"Close"},"nextIconUrl":"https:\/\/lynweber.com\/wp-content\/themes\/vantage\/inc\/mobilenav\/images\/next.png","mobileMenuClose":"<i class=\"fa fa-times\"><\/i>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/themes/vantage/inc/mobilenav/js/mobilenav.min.js?ver=2.6'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/themes/vantage/premium/addons/ajax-comments/js/ajax-comments.min.js?ver=2.6'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/woodojo/bundled/woodojo-tabs/assets/js/functions.js?ver=1.0.0'></script>
+<link rel='https://api.w.org/' href='https://lynweber.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lynweber.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://lynweber.com/wp-includes/wlwmanifest.xml" /> 
+<link rel="canonical" href="https://lynweber.com/" />
+<link rel='shortlink' href='https://lynweber.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://lynweber.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flynweber.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://lynweber.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flynweber.com%2F&#038;format=xml" />
+<style type="text/css" media="screen"></style><style type="text/css" media="screen">@media (max-width: 728px) {}</style><style type="text/css" media="screen">@media (max-width: 320px) {}</style><style>.woocommerce-password-strength.short {color: #e2401c}.woocommerce-password-strength.bad {color: #e2401c}.woocommerce-password-strength.good {color: #3d9cd2}.woocommerce-password-strength.strong {color: #0f834d}.woocommerce-password-strength:after, .woocommerce-password-strength.good:after, .woocommerce-password-strength.strong:after {display: none;}</style><meta name="viewport" content="width=device-width, initial-scale=1" />		<style type="text/css">
+			.so-mobilenav-mobile + * { display: none; }
+			@media screen and (max-width: 480px) { .so-mobilenav-mobile + * { display: block; } .so-mobilenav-standard + * { display: none; } }
+		</style>
+		<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	
+<!-- WooCommerce Facebook Integration Begin -->
+
+<script type='text/javascript'>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+</script>
+
+<script>
+fbq('init', '1056299921056327', {}, {
+    "agent": "woocommerce-3.5.4-1.9.7"
+});
+
+fbq('track', 'PageView', {
+    "source": "woocommerce",
+    "version": "3.5.4",
+    "pluginVersion": "1.9.7"
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+  jQuery && jQuery(function($){
+    $('body').on('added_to_cart', function(event) {
+      // Ajax action.
+      $.get('?wc-ajax=fb_inject_add_to_cart_event', function(data) {
+        $('head').append(data);
+      });
+    });
+  });
+}, false);
+
+</script>
+<!-- DO NOT MODIFY -->
+<!-- WooCommerce Facebook Integration end -->
+    <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://lynweber.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.8.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="LWW" />
+<meta property="og:description" content="precision barista tools" />
+<meta property="og:url" content="https://lynweber.com/" />
+<meta property="og:site_name" content="LWW" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:text:title" content="Home" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+	<style type="text/css" media="screen">
+		#footer-widgets .widget { width: 50%; }
+		#masthead-widgets .widget { width: 100%; }
+	</style>
+	<style type="text/css" id="vantage-footer-widgets">#footer-widgets aside { width : 50%; } </style> <style type="text/css" id="customizer-css">@import url(https://fonts.googleapis.com/css?family=Lato:300|Lato:100); body,button,input,select,textarea { font-family: "Lato"; font-weight: 300; font-weight: 300 } #masthead h1 { font-family: "Lato"; font-weight: 100; font-weight: 100 } h1,h2,h3,h4,h5,h6 { font-family: "Lato"; font-weight: 100; font-weight: 100 } #masthead .hgroup h1, #masthead.masthead-logo-in-menu .logo > h1 { font-size: px } #page-title, article.post .entry-header h1.entry-title, article.page .entry-header h1.entry-title { font-size: 11px } .entry-content { font-size: 14px } .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6, #comments .commentlist article .comment-author a, #comments .commentlist article .comment-author, #comments-title, #reply-title, #commentform label { color: #6b6b6b } #comments-title, #reply-title { border-bottom-color: #6b6b6b } #masthead .hgroup { padding-top: 0px; padding-bottom: 0px } #masthead .hgroup .logo { text-align: center } #masthead .hgroup .logo, #masthead .hgroup .site-logo-link { float: none } #masthead .hgroup .logo img, #masthead .hgroup .site-logo-link img { display: block; margin: 0 auto } .main-navigation ul { text-align: center } .main-navigation { background-color: #ffffff } .main-navigation a { color: #5e5e5e } .main-navigation ul ul { background-color: #2b2b2b } .main-navigation ul li:hover > a, #search-icon #search-icon-icon:hover { background-color: #c4c4c4 } .main-navigation ul ul li:hover > a { background-color: #5e2b2b } #search-icon #search-icon-icon { background-color: #ffffff } #search-icon .searchform { background-color: #877d7d } .main-navigation ul li a { padding-top: 10px; padding-bottom: 10px } .main-navigation ul li { font-size: 15px } a.button, button, html input[type="button"], input[type="reset"], input[type="submit"], .post-navigation a, #image-navigation a, article.post .more-link, article.page .more-link, .paging-navigation a, .woocommerce #page-wrapper .button, .woocommerce a.button, .woocommerce .checkout-button, .woocommerce input.button, #infinite-handle span button { text-shadow: none } a.button, button, html input[type="button"], input[type="reset"], input[type="submit"], .post-navigation a, #image-navigation a, article.post .more-link, article.page .more-link, .paging-navigation a, .woocommerce #page-wrapper .button, .woocommerce a.button, .woocommerce .checkout-button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, #infinite-handle span { -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none } #masthead { background-color: #ffffff } #main { background-color: #ffffff } #colophon, body.layout-full { background-color: #ffffff } </style><script type="text/javascript">function setREVStartSize(e){									
+
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+
+					};</script>
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1444948194504{border-top-width: 1px !important;border-bottom-width: 1px !important;background-color: #ffffff !important;border-top-color: #ededed !important;border-top-style: dotted !important;border-bottom-color: #ededed !important;border-bottom-style: dotted !important;border-radius: 1px !important;}.vc_custom_1444947862078{padding-top: 2% !important;}.vc_custom_1441920540016{margin-top: -30px !important;}.vc_custom_1445008620782{padding-top: 1px !important;background-color: #ffffff !important;}.vc_custom_1446824020215{padding-right: 1% !important;padding-left: 1% !important;}.vc_custom_1446824046702{padding-right: 1% !important;padding-left: 1% !important;}.vc_custom_1446824066190{padding-right: 1% !important;padding-left: 1% !important;}.vc_custom_1444942002091{padding-bottom: 5% !important;background-color: #ffffff !important;}.vc_custom_1445438036758{padding-bottom: 5% !important;background-color: #ffffff !important;}.vc_custom_1444942083220{padding-bottom: 5% !important;background-color: #ffffff !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><!-- WooCommerce Google Analytics Integration -->
+		<script type='text/javascript'>
+			var gaProperty = 'UA-70399031-1';
+			var disableStr = 'ga-disable-' + gaProperty;
+			if ( document.cookie.indexOf( disableStr + '=true' ) > -1 ) {
+				window[disableStr] = true;
+			}
+			function gaOptout() {
+				document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+				window[disableStr] = true;
+			}
+		</script>
+		<script type='text/javascript'>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga( 'create', 'UA-70399031-1', 'auto' );ga( 'set', 'anonymizeIp', true );
+		ga( 'set', 'dimension1', 'no' );
+ga( 'require', 'ec' );</script>
+		<!-- /WooCommerce Google Analytics Integration --></head>
+
+<body class="home page-template page-template-home-panels page-template-home-panels-php page page-id-8115 woocommerce-no-js group-blog responsive layout-full no-js no-sidebar has-menu-search panels-style-force-full page-layout-default not-default-page sidebar-position-none mobilenav wpb-js-composer js-comp-ver-5.6 vc_responsive">
+
+
+<div id="page-wrapper">
+
+	
+	
+		<header id="masthead" class="site-header" role="banner">
+
+	<div class="hgroup full-container ">
+
+		
+			<a href="https://lynweber.com/" title="LWW" rel="home" class="logo"><img src="https://lynweber.com/wp-content/uploads/2015/08/lww-logo_v4.png"  class="logo-height-constrain"  width="75"  height="75"  alt="LWW Logo"  srcset="https://lynweber.com/wp-content/uploads/2015/10/offset_150px_logo.png 2x"  /></a>
+			
+				<div class="support-text">
+									</div>
+
+			
+		
+	</div><!-- .hgroup.full-container -->
+
+	
+<nav role="navigation" class="site-navigation main-navigation primary use-sticky-menu mobile-navigation">
+
+	<div class="full-container">
+							<div id="search-icon">
+				<div id="search-icon-icon"><div class="vantage-icon-search"></div></div>
+				
+<form method="get" class="searchform" action="https://lynweber.com/" role="search">
+	<input type="text" class="field" name="s" value="" placeholder="Search"/>
+</form>
+			</div>
+		
+					<div id="so-mobilenav-standard-1" data-id="1" class="so-mobilenav-standard"></div><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-8155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-8115 current_page_item menu-item-8155"><a href="https://lynweber.com/" aria-current="page"><span class="fa fa-home"></span>Home</a></li>
+<li id="menu-item-8211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8211"><a href="https://lynweber.com/about-us/">About</a></li>
+<li id="menu-item-7979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7979"><a href="https://lynweber.com/products/">Products</a>
+<ul class="sub-menu">
+	<li id="menu-item-13871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13871"><a href="https://lynweber.com/products/moulin/">LWW Moulin</a></li>
+	<li id="menu-item-15693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15693"><a href="https://lynweber.com/products/bean-counter/">LWW Bean Counter</a></li>
+	<li id="menu-item-8250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8250"><a href="https://lynweber.com/products/eg-1/">EG-1 Electric Grinder</a></li>
+	<li id="menu-item-7984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7984"><a href="https://lynweber.com/products/hg-1/">HG-1 Hand Grinder</a></li>
+	<li id="menu-item-10725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10725"><a href="https://lynweber.com/products/">Accessories</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10657"><a href="https://lynweber.com/accessories/bean-cellars-glass/">Bean Cellars</a>
+		<ul class="sub-menu">
+			<li id="menu-item-8253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8253"><a href="https://lynweber.com/accessories/bean-cellars-glass/">Glass</a></li>
+			<li id="menu-item-10656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10656"><a href="https://lynweber.com/accessories/bean-cellars-commercial/">Commercial</a></li>
+		</ul>
+</li>
+		<li id="menu-item-11320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11320"><a href="https://lynweber.com/accessories/blind-shaker/">Blind Shaker</a></li>
+		<li id="menu-item-9652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9652"><a href="https://lynweber.com/accessories/blind-tumbler/">Blind Tumbler</a></li>
+		<li id="menu-item-16034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16034"><a href="https://lynweber.com/accessories/looking-glass/">Looking Glass</a></li>
+		<li id="menu-item-9656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9656"><a href="https://lynweber.com/accessories/basemat/">Basemat</a></li>
+		<li id="menu-item-8259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8259"><a href="https://lynweber.com/accessories/steam-dial/">Steam Dial</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-7978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7978"><a href="https://lynweber.com/news/">News</a></li>
+<li id="menu-item-9640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9640"><a href="https://lynweber.com/my-account/">Support</a>
+<ul class="sub-menu">
+	<li id="menu-item-7989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7989"><a href="https://lynweber.com/my-account/">My Account</a></li>
+	<li id="menu-item-11725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11725"><a href="https://lynweber.com/support/order-tracking/">Order Tracking</a></li>
+	<li id="menu-item-7988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7988"><a href="https://lynweber.com/register/">Register</a></li>
+	<li id="menu-item-9461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9461"><a href="https://lynweber.com/support/contact/">Contact</a></li>
+	<li id="menu-item-10673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10673"><a href="https://lynweber.com/login/">Log In</a></li>
+</ul>
+</li>
+<li id="menu-item-7981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7981"><a href="https://lynweber.com/store/"><span class="fa fa-shopping-cart"></span>Store</a>
+<ul class="sub-menu">
+	<li id="menu-item-10156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10156"><a href="https://lynweber.com/cart/">Cart</a></li>
+	<li id="menu-item-10155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10155"><a href="https://lynweber.com/checkout/">Checkout</a></li>
+	<li id="menu-item-10740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10740"><a href="https://lynweber.com/store/waitlist/">Waitlist</a></li>
+	<li id="menu-item-11679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11679"><a href="https://lynweber.com/store/asian-shipping/">Asian Shipping Rates</a></li>
+	<li id="menu-item-12004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12004"><a href="https://lynweber.com/store/shaker-japan/">Blind Shaker Japan</a></li>
+</ul>
+</li>
+</ul></div><div id="so-mobilenav-mobile-1" data-id="1" class="so-mobilenav-mobile"></div><div class="menu-mobilenav-container"><ul id="mobile-nav-item-wrap-1" class="menu"><li><a href="#" class="mobilenav-main-link" data-id="1"><span class="mobile-nav-icon"></span>Menu</a></li></ul></div>			</div>
+</nav><!-- .site-navigation .main-navigation -->
+
+</header><!-- #masthead .site-header -->
+
+	
+	
+	
+	
+	<div id="main" class="site-main">
+		<div class="full-container">
+			
+<div id="primary" class="content-area">
+	<div id="content" class="site-content" role="main">
+		<div class="entry-content">
+			<div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1441920540016"><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element"><link href="https://fonts.googleapis.com/css?family=Lato:300" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:#E9E9E9;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.4.8.2 fullwidth mode -->
+	<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.8.2">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-140" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="250"  data-link="https://lynweber.com/products/eg-1/"   data-thumb="https://lynweber.com/wp-content/uploads/2015/10/EG1_main_slider-100x50.jpg"  data-delay="7000"  data-rotate="0"  data-saveperformance="off"  data-title="EG-1" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://lynweber.com/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="EG1_main_slider"  width="2400" height="1000" data-lazyload="https://lynweber.com/wp-content/uploads/2015/10/EG1_main_slider.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption Fashion-BigDisplay   tp-resizeme" 
+			 id="slide-140-layer-2" 
+			 data-x="['right','right','right','right']" data-hoffset="['121','121','121','29']" 
+			 data-y="['top','top','top','top']" data-voffset="['221','221','221','77']" 
+						data-fontsize="['60','60','60','32']"
+			data-width="['176','176','176','106']"
+			data-height="['61','61','61','none']"
+			data-whitespace="normal"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":1500,"speed":500,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":320,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['right','right','right','right']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; min-width: 176px; max-width: 176px; max-width: 61px; max-width: 61px; white-space: normal; font-weight: 300; color: rgba(2,2,2,1); letter-spacing: ;font-family:lato;">EG-1 </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption Fashion-BigDisplay   tp-resizeme" 
+			 id="slide-140-layer-3" 
+			 data-x="['right','right','right','right']" data-hoffset="['121','121','121','25']" 
+			 data-y="['top','top','top','top']" data-voffset="['274','274','274','122']" 
+						data-fontsize="['24','24','24','25']"
+			data-width="['none','none','none','412']"
+			data-height="['none','none','none','121']"
+			data-whitespace="['nowrap','nowrap','nowrap','normal']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":2500,"speed":500,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['right','right','right','right']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 24px; font-weight: 300; color: rgba(2,2,2,1); letter-spacing: px;font-family:Lato;">Electric 80mm flat burr grinder. </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-48" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="250"  data-link="https://lynweber.com/products/hg-1/"   data-thumb="https://lynweber.com/wp-content/uploads/2015/10/HG1-main_slider_5-100x50.jpg"  data-delay="7000"  data-rotate="0"  data-saveperformance="off"  data-title="HG-1" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://lynweber.com/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="HG1-main_slider_5"  width="2400" height="1000" data-lazyload="https://lynweber.com/wp-content/uploads/2015/10/HG1-main_slider_5.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption Fashion-BigDisplay   tp-resizeme" 
+			 id="slide-48-layer-2" 
+			 data-x="['left','left','left','left']" data-hoffset="['93','93','93','48']" 
+			 data-y="['top','top','top','top']" data-voffset="['193','193','193','52']" 
+						data-fontsize="['60','60','60','30']"
+			data-width="['176','176','176','97']"
+			data-height="['61','61','61','none']"
+			data-whitespace="normal"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":1500,"speed":500,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":320,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; min-width: 176px; max-width: 176px; max-width: 61px; max-width: 61px; white-space: normal; font-weight: 300; color: rgba(2,2,2,1); letter-spacing: ;font-family:lato;">HG-1 </div>
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption Fashion-BigDisplay   tp-resizeme" 
+			 id="slide-48-layer-3" 
+			 data-x="['left','left','left','left']" data-hoffset="['95','95','95','48']" 
+			 data-y="['top','top','top','top']" data-voffset="['250','250','250','112']" 
+						data-fontsize="['24','24','24','25']"
+			data-lineheight="['60','60','60','18']"
+			data-width="['none','none','none','501']"
+			data-height="['none','none','none','72']"
+			data-whitespace="['nowrap','nowrap','nowrap','normal']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":2500,"speed":500,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 24px; font-weight: 300; color: rgba(2,2,2,1); letter-spacing: px;font-family:Lato;">Manual 83mm conical burr grinder. </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-27" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="250"  data-link="https://lynweber.com/products/moulin/"   data-thumb="https://lynweber.com/wp-content/uploads/2017/12/PM-1-main-1-100x50.jpg"  data-delay="7000"  data-rotate="0"  data-saveperformance="off"  data-title="PM-1" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://lynweber.com/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="PM-1 main-1"  width="2400" height="996" data-lazyload="https://lynweber.com/wp-content/uploads/2017/12/PM-1-main-1.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 5 -->
+		<div class="tp-caption Fashion-BigDisplay   tp-resizeme" 
+			 id="slide-27-layer-2" 
+			 data-x="['right','right','right','right']" data-hoffset="['74','74','74','63']" 
+			 data-y="['top','top','top','top']" data-voffset="['34','34','34','91']" 
+						data-fontsize="['60','60','60','30']"
+			data-width="['389','389','389','259']"
+			data-height="none"
+			data-whitespace="normal"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":1500,"speed":500,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":320,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['right','right','right','right']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; min-width: 389px; max-width: 389px; white-space: normal; font-weight: 300; color: rgba(2,2,2,1); letter-spacing: px;font-family:lato;">LWW Moulin </div>
+
+		<!-- LAYER NR. 6 -->
+		<div class="tp-caption Fashion-BigDisplay   tp-resizeme" 
+			 id="slide-27-layer-3" 
+			 data-x="['right','right','right','right']" data-hoffset="['79','79','79','63']" 
+			 data-y="['top','top','top','top']" data-voffset="['93','93','93','125']" 
+						data-fontsize="['24','24','24','25']"
+			data-width="['none','none','none','256']"
+			data-height="none"
+			data-whitespace="['nowrap','nowrap','nowrap','normal']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":2500,"speed":500,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['right','right','right','right']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 24px; font-weight: 300; color: rgba(2,2,2,1); letter-spacing: px;font-family:Lato;">Pepper Mill </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-147" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="250"  data-link="https://lynweber.com/products/bean-cellar/"   data-thumb="https://lynweber.com/wp-content/uploads/2019/02/BC1_topslider-100x50.jpg"  data-delay="6980"  data-rotate="0"  data-saveperformance="off"  data-title="PM-1" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://lynweber.com/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="BC1_topslider"  width="1200" height="500" data-lazyload="https://lynweber.com/wp-content/uploads/2019/02/BC1_topslider.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 7 -->
+		<div class="tp-caption Fashion-BigDisplay   tp-resizeme" 
+			 id="slide-147-layer-2" 
+			 data-x="['right','right','right','right']" data-hoffset="['7','7','7','65']" 
+			 data-y="['top','top','top','top']" data-voffset="['21','21','21','79']" 
+						data-fontsize="['60','60','60','30']"
+			data-width="['571','571','571','259']"
+			data-height="['123','123','123','none']"
+			data-whitespace="normal"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":1500,"speed":500,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":320,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['right','right','right','right']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; min-width: 571px; max-width: 571px; max-width: 123px; max-width: 123px; white-space: normal; font-weight: 300; color: rgba(2,2,2,1); letter-spacing: px;font-family:lato;">Bean Counter </div>
+
+		<!-- LAYER NR. 8 -->
+		<div class="tp-caption Fashion-BigDisplay   tp-resizeme" 
+			 id="slide-147-layer-3" 
+			 data-x="['right','right','right','right']" data-hoffset="['19','19','19','63']" 
+			 data-y="['top','top','top','top']" data-voffset="['81','81','81','125']" 
+						data-fontsize="['24','24','24','25']"
+			data-width="['513','513','513','300']"
+			data-height="['61','61','61','121']"
+			data-whitespace="['nowrap','nowrap','nowrap','normal']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":2500,"speed":500,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['right','right','right','right']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; min-width: 513px; max-width: 513px; max-width: 61px; max-width: 61px; white-space: nowrap; font-size: 24px; font-weight: 300; color: rgba(2,2,2,1); letter-spacing: px;font-family:Lato;">with Acaia Technology </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-56" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="250"  data-link="http://lynweber.com/accessories/blind-shaker/"   data-thumb="https://lynweber.com/wp-content/uploads/2016/04/Blind-Shaker-2-100x50.jpg"  data-delay="7000"  data-rotate="0"  data-saveperformance="off"  data-title="BSK" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://lynweber.com/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="Blind Shaker-2"  width="2400" height="996" data-lazyload="https://lynweber.com/wp-content/uploads/2016/04/Blind-Shaker-2.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 9 -->
+		<div class="tp-caption Fashion-BigDisplay   tp-resizeme" 
+			 id="slide-56-layer-2" 
+			 data-x="['right','right','right','right']" data-hoffset="['28','28','28','21']" 
+			 data-y="['top','top','top','top']" data-voffset="['201','201','201','43']" 
+						data-fontsize="['50','50','50','18']"
+			data-width="['451','451','451','180']"
+			data-height="none"
+			data-whitespace="normal"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"from":"opacity:0;","speed":500,"to":"o:1;","delay":1500,"ease":"Power2.easeInOut"},{"delay":"wait","speed":320,"to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 13; min-width: 451px; max-width: 451px; white-space: normal; font-size: 50px; font-weight: 300; color: rgba(2,2,2,1);font-family:lato;">Blind Shaker </div>
+
+		<!-- LAYER NR. 10 -->
+		<div class="tp-caption Fashion-BigDisplay   tp-resizeme" 
+			 id="slide-56-layer-3" 
+			 data-x="['right','right','right','right']" data-hoffset="['110','110','110','21']" 
+			 data-y="['top','top','top','top']" data-voffset="['249','249','249','87']" 
+						data-fontsize="['24','24','24','12']"
+			data-lineheight="['60','60','60','18']"
+			data-width="['365','365','365','180']"
+			data-height="none"
+			data-whitespace="normal"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"from":"opacity:0;","speed":500,"to":"o:1;","delay":2500,"ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 14; min-width: 365px; max-width: 365px; white-space: normal; font-size: 24px; font-weight: 300; color: rgba(2,2,2,1);font-family:Lato;">Dosing & distribution funnel. </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-45" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="250"  data-link="https://lynweber.com/?p=8251"   data-thumb="https://lynweber.com/wp-content/uploads/2018/05/BN_G_main_slider_5_b-100x50.jpg"  data-delay="7000"  data-rotate="0"  data-saveperformance="off"  data-title="BN-G" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://lynweber.com/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="BN_G_main_slider_5_b"  width="2400" height="1000" data-lazyload="https://lynweber.com/wp-content/uploads/2018/05/BN_G_main_slider_5_b.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 11 -->
+		<div class="tp-caption Fashion-BigDisplay   tp-resizeme" 
+			 id="slide-45-layer-2" 
+			 data-x="['left','left','left','left']" data-hoffset="['78','78','78','22']" 
+			 data-y="['top','top','top','top']" data-voffset="['193','193','193','40']" 
+						data-fontsize="['50','50','50','24']"
+			data-width="['376','376','376','180']"
+			data-height="none"
+			data-whitespace="normal"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":1500,"speed":500,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":320,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; min-width: 376px; max-width: 376px; white-space: normal; font-size: 50px; font-weight: 300; color: rgba(2,2,2,1); letter-spacing: ;font-family:lato;">Bean Cellars </div>
+
+		<!-- LAYER NR. 12 -->
+		<div class="tp-caption Fashion-BigDisplay   tp-resizeme" 
+			 id="slide-45-layer-3" 
+			 data-x="['left','left','left','left']" data-hoffset="['84','84','84','24']" 
+			 data-y="['top','top','top','top']" data-voffset="['249','249','249','84']" 
+						data-fontsize="['24','24','24','12']"
+			data-lineheight="['60','60','60','18']"
+			data-width="['none','none','none','224']"
+			data-height="none"
+			data-whitespace="['nowrap','nowrap','nowrap','normal']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":2500,"speed":500,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 24px; font-weight: 300; color: rgba(2,2,2,1); letter-spacing: ;font-family:Lato;">Whole bean coffee storage. </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-47" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="250"  data-link="http://lynweber.com/accessories/steam-dial/"   data-thumb="https://lynweber.com/wp-content/uploads/2015/11/STD-steamdial_mainslider-1-100x50.jpg"  data-delay="7000"  data-rotate="0"  data-saveperformance="off"  data-title="Steam Dial" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://lynweber.com/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt=""  width="2048" height="850" data-lazyload="https://lynweber.com/wp-content/uploads/2015/11/STD-steamdial_mainslider-1.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 13 -->
+		<div class="tp-caption Fashion-BigDisplay   tp-resizeme" 
+			 id="slide-47-layer-2" 
+			 data-x="['left','left','left','left']" data-hoffset="['608','608','608','217']" 
+			 data-y="['top','top','top','top']" data-voffset="['240','240','240','68']" 
+						data-fontsize="['60','60','60','22']"
+			data-width="['308','308','308','150']"
+			data-height="['74','74','74','none']"
+			data-whitespace="normal"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"from":"opacity:0;","speed":500,"to":"o:1;","delay":1500,"ease":"Power2.easeInOut"},{"delay":"wait","speed":320,"to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['right','right','right','right']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 17; min-width: 308px; max-width: 308px; max-width: 74px; max-width: 74px; white-space: normal; font-weight: 300; color: rgba(255,255,255,1);font-family:lato;text-transform:left;color:#ffffff;text-shadow:0px 5px 5px rgba(0,0,0,0.75);">Steam Dial </div>
+
+		<!-- LAYER NR. 14 -->
+		<div class="tp-caption Fashion-BigDisplay   tp-resizeme" 
+			 id="slide-47-layer-3" 
+			 data-x="['left','left','left','left']" data-hoffset="['623','623','623','246']" 
+			 data-y="['top','top','top','top']" data-voffset="['291','291','291','111']" 
+						data-fontsize="['24','24','24','14']"
+			data-lineheight="['60','60','60','20']"
+			data-width="['none','none','none','155']"
+			data-height="['none','none','none','47']"
+			data-whitespace="['nowrap','nowrap','nowrap','normal']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"from":"opacity:0;","speed":500,"to":"o:1;","delay":2500,"ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+			data-textAlign="['left','left','left','left']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 18; white-space: nowrap; font-size: 24px; font-weight: 300; color: rgba(255,255,255,1);font-family:Lato;text-transform:left;color:#ffffff;text-shadow:0px 2px 5px rgba(0,0,0,0.75);">Variable aperture steam tip. </div>
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss=".tp-caption.Fashion-BigDisplay,.Fashion-BigDisplay{color:rgba(0,0,0,1.00);font-size:60px;line-height:60px;font-weight:900;font-style:normal;font-family:Raleway;text-decoration:none;background-color:transparent;border-color:transparent;border-style:none;border-width:0px;border-radius:0px 0px 0px 0px;letter-spacing:2px}";
+
+				if(htmlDiv) {
+
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+
+				}else{
+
+					var htmlDiv = document.createElement("div");
+
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+
+				}
+
+			</script>
+		<script type="text/javascript">
+
+if (setREVStartSize!==undefined) setREVStartSize(
+
+	{c: '#rev_slider_1_1', responsiveLevels: [1240,1240,1240,480], gridwidth: [1200,1200,1200,1200], gridheight: [500,500,500,500], sliderLayout: 'fullwidth'});
+
+			
+
+var revapi1,
+
+	tpj;	
+
+(function() {			
+
+	if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener("DOMContentLoaded",onLoad); else onLoad();	
+
+	function onLoad() {				
+
+		if (tpj===undefined) { tpj = jQuery; if("on" == "on") tpj.noConflict();}
+
+	if(tpj("#rev_slider_1_1").revolution == undefined){
+		revslider_showDoubleJqueryError("#rev_slider_1_1");
+	}else{
+		revapi1 = tpj("#rev_slider_1_1").show().revolution({
+			sliderType:"standard",
+			jsFileLocation:"//lynweber.com/wp-content/plugins/revslider/public/assets/js/",
+			sliderLayout:"fullwidth",
+			dottedOverlay:"none",
+			delay:7000,
+			navigation: {
+				keyboardNavigation:"on",
+				keyboard_direction: "horizontal",
+				mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+				onHoverStop:"off",
+				touch:{
+					touchenabled:"on",
+					touchOnDesktop:"off",
+					swipe_threshold: 75,
+					swipe_min_touches: 1,
+					swipe_direction: "horizontal",
+					drag_block_vertical: false
+				}
+			},
+			responsiveLevels:[1240,1240,1240,480],
+			visibilityLevels:[1240,1240,1240,480],
+			gridwidth:[1200,1200,1200,1200],
+			gridheight:[500,500,500,500],
+			lazyType:"all",
+			shadow:0,
+			spinner:"spinner3",
+			stopLoop:"off",
+			stopAfterLoops:-1,
+			stopAtSlide:-1,
+			shuffle:"off",
+			autoHeight:"on",
+			disableProgressBar:"on",
+			hideThumbsOnMobile:"off",
+			hideSliderAtLimit:0,
+			hideCaptionAtLimit:0,
+			hideAllCaptionAtLilmit:0,
+			debugMode:false,
+			fallbacks: {
+				simplifyAll:"off",
+				nextSlideOnWindowFocus:"off",
+				disableFocusListener:false,
+			panZoomDisableOnMobile:"on",
+			}
+		});
+	}; /* END OF revapi call */
+	
+ }; /* END OF ON LOAD FUNCTION */
+
+}()); /* END OF WRAPPING FUNCTION */
+
+</script>
+
+		<script>
+
+					var htmlDivCss = '	#rev_slider_1_1_wrapper .tp-loader.spinner3 div { background-color: #FFFFFF !important; } ';
+
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+
+					if(htmlDiv) {
+
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+
+					}
+
+					else{
+
+						var htmlDiv = document.createElement('div');
+
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+
+					}
+
+					</script>
+
+					</div><!-- END REVOLUTION SLIDER --></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1444948194504 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><h1 style="color: #565656;text-align: center;font-family:Josefin Sans;font-weight:400;font-style:normal" class="vc_custom_heading vc_custom_1445008620782" >Precision Barista Tools</p>
+<p></h1></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1444947862078"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-3 vc_col-lg-offset-0 vc_col-md-offset-0 vc_col-sm-offset-0 vc_col-xs-offset-1 vc_col-xs-10"><div class="vc_column-inner vc_custom_1446824020215"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="http://lynweber.com/products" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img width="300" height="300" src="https://lynweber.com/wp-content/uploads/2015/05/HG1_prod_acc_page.jpg" class="vc_single_image-img attachment-full" alt="" srcset="https://lynweber.com/wp-content/uploads/2015/05/HG1_prod_acc_page.jpg 300w, https://lynweber.com/wp-content/uploads/2015/05/HG1_prod_acc_page-150x150.jpg 150w, https://lynweber.com/wp-content/uploads/2015/05/HG1_prod_acc_page-120x120.jpg 120w, https://lynweber.com/wp-content/uploads/2015/05/HG1_prod_acc_page-50x50.jpg 50w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+		</figure>
+	</div>
+<p style="color: #515151;text-align: center;font-family:Lato;font-weight:300;font-style:normal" class="vc_custom_heading vc_custom_1444942002091" ><a href="http://lynweber.com/products/">Products</p>
+<p></a></p></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_col-lg-offset-0 vc_col-md-offset-0 vc_col-sm-offset-0 vc_col-xs-offset-1 vc_col-xs-10"><div class="vc_column-inner vc_custom_1446824046702"><div class="wpb_wrapper"><div id="sb_instagram" class="sbi sbi_mob_col_auto sbi_col_1" style="max-width: 640px; width:100%; " data-id="2138488823" data-num="1" data-res="auto" data-cols="1" data-options='{&quot;sortby&quot;: &quot;none&quot;, &quot;showbio&quot;: &quot;false&quot;,&quot;feedID&quot;: &quot;2138488823&quot;, &quot;headercolor&quot;: &quot;&quot;, &quot;imagepadding&quot;: &quot;&quot;,&quot;mid&quot;: &quot;M2E4MWE5Zg==&quot;, &quot;disablecache&quot;: &quot;false&quot;, &quot;sbiCacheExists&quot;: &quot;true&quot;,&quot;callback&quot;: &quot;M2ZlNzJkOWE2Njgx.NDhkMjhmMmEwMjdkZjgzNGZhYzk=&quot;, &quot;sbiHeaderCache&quot;: &quot;true&quot;}'><div id="sbi_images"><div class="sbi_loader"></div></div><div id="sbi_load" class="sbi_hidden"></div></div><p style="color: #515151;text-align: center;font-family:Lato;font-weight:300;font-style:normal" class="vc_custom_heading vc_custom_1445438036758" ><a href="https://instagram.com/lynweber/">Moments</p>
+<p></a></p></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0 vc_col-md-offset-0 vc_col-sm-offset-0 vc_col-xs-offset-1 vc_col-xs-10"><div class="vc_column-inner vc_custom_1446824066190"><div class="wpb_wrapper"><!-- vc_grid start -->
+<div class="vc_grid-container-wrapper vc_clearfix" >
+	<div class="vc_grid-container vc_clearfix wpb_content_element vc_basic_grid" data-initial-loading-animation="fadeIn" data-vc-grid-settings="{&quot;page_id&quot;:8115,&quot;style&quot;:&quot;all&quot;,&quot;action&quot;:&quot;vc_get_vc_grid_data&quot;,&quot;shortcode_id&quot;:&quot;{\&quot;failed_to_get_id\&quot;:\&quot;vc_gid:1523469569914-29a8cff9b6d5dc6fc3753e9a2b186be4-5\&quot;}&quot;,&quot;tag&quot;:&quot;vc_basic_grid&quot;}" data-vc-request="https://lynweber.com/wp-admin/admin-ajax.php" data-vc-post-id="8115" data-vc-public-nonce="6ec5f4d546">
+		<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1439487837478{background-color: rgba(221,221,221,0.01) !important;*background-color: rgb(221,221,221) !important;}.vc_custom_1439582458749{background-color: rgba(53,53,53,0.49) !important;*background-color: rgb(53,53,53) !important;}</style><div class="vc_grid vc_row vc_pageable-wrapper vc_hook_hover" data-vc-pageable-content="true"><div class="vc_pageable-slide-wrapper vc_clearfix" data-vc-grid-content="true"><div class="vc_grid-item vc_clearfix vc_col-sm-12"><div class="vc_grid-item-mini vc_clearfix "><div class="vc_gitem-animated-block  vc_gitem-animate vc_gitem-animate-none" data-vc-animation="none"><div class="vc_gitem-zone vc_gitem-zone-a vc_gitem-is-link" style="height: 2:1;background-image: url('https://lynweber.com/wp-content/uploads/2019/02/PCB_Lowres-1024x736.jpg') !important;">
+	<a href="https://lynweber.com/acaia/" title="Acaia Collaboration" class="vc_gitem-link vc-zone-link"></a>	<img src="https://lynweber.com/wp-content/uploads/2019/02/PCB_Lowres-1024x736.jpg" class="vc_gitem-zone-img" alt="">	<div class="vc_gitem-zone-mini">
+			</div>
+</div>
+<div class="vc_gitem-zone vc_gitem-zone-b vc-gitem-zone-height-mode-auto vc_gitem-is-link">
+	<a href="https://lynweber.com/acaia/" title="Acaia Collaboration" class="vc_gitem-link vc-zone-link"></a>		<div class="vc_gitem-zone-mini">
+		<div class="vc_gitem_row vc_row vc_gitem-row-position-bottom"><div class="vc_col-sm-12 vc_gitem-col vc_gitem-col-align-"><div class="vc_custom_heading vc_custom_1439582458749 vc_gitem-post-data vc_gitem-post-data-source-post_title" ><div style="font-size: 18px;color: #ffffff;text-align: center;font-family:Lato;font-weight:300;font-style:normal" ><a href="https://lynweber.com/acaia/" class="vc_gitem-link" title="Acaia Collaboration">Acaia Collaboration</a></div></div></div></div>	</div>
+</div>
+</div>
+</div><div class="vc_clearfix"></div></div></div></div>	</div>
+</div><!-- vc_grid end -->
+<p style="color: #515151;text-align: center;font-family:Lato;font-weight:300;font-style:normal" class="vc_custom_heading vc_custom_1444942083220" ><a href="http://lynweber.com/news/">News</p>
+<p></a></p></div></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4 vc_col-lg-offset-4 vc_col-md-offset-4 vc_col-sm-offset-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4 vc_col-lg-2 vc_col-md-offset-3 vc_col-md-2 vc_col-sm-offset-0 vc_col-xs-offset-3 vc_col-xs-2"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://www.facebook.com/lynweberworkshops" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://lynweber.com/wp-content/uploads/2015/05/facebook_icon-30x30.png" width="30" height="30" alt="facebook_icon" title="facebook_icon" /></a>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_col-lg-2 vc_col-md-2 vc_col-xs-2"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="http://instagram.com/lynweber" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://lynweber.com/wp-content/uploads/2015/05/instagram_icon-30x30.png" width="30" height="30" alt="instagram_icon" title="instagram_icon" /></a>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_col-lg-2 vc_col-md-2 vc_col-xs-2"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="http://twitter.com/lwworkshops" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://lynweber.com/wp-content/uploads/2015/05/twitter_icon-30x30.png" width="30" height="30" alt="twitter_icon" title="twitter_icon" /></a>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div></div>
+		</div>
+	</div><!-- #content .site-content -->
+</div><!-- #primary .content-area -->
+
+					</div><!-- .full-container -->
+	</div><!-- #main .site-main -->
+
+	
+	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+
+			<div id="footer-widgets" class="full-container">
+			<aside id="text-3" class="widget widget_text">			<div class="textwidget"> <p align="right">
+
+ <a href="http://lynweber.com/terms-conditions/">Terms & Conditions</a> 
+
+</p> </div>
+		</aside>		</div><!-- #footer-widgets -->
+	
+			<div id="site-info">
+			&copy; LWW, 2019		</div><!-- #site-info -->
+	
+	
+</footer><!-- #colophon .site-footer -->
+
+	
+</div><!-- #page-wrapper -->
+
+
+<!-- Instagram Feed JS -->
+
+<script type="text/javascript">
+
+var sbiajaxurl = "https://lynweber.com/wp-admin/admin-ajax.php";
+
+</script>
+
+<a href="#" id="scroll-to-top" class="scroll-to-top" title="Back To Top"><span class="vantage-icon-arrow-up"></span></a>
+<!-- Facebook Pixel Code -->
+<noscript>
+<img height="1" width="1" style="display:none" alt="fbpx"
+src="https://www.facebook.com/tr?id=1056299921056327&ev=PageView&noscript=1"/>
+</noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+    	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+				<script type="text/javascript">
+
+				function revslider_showDoubleJqueryError(sliderID) {
+
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+
+						jQuery(sliderID).show().html(errorMessage);
+
+				}
+
+			</script>
+
+			<link rel='stylesheet' id='woocommercebulkdiscount-style-css'  href='https://lynweber.com/wp-content/plugins/woocommerce-bulk-discount/css/style.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_google_fonts_josefin_sans100100italic300300italicregularitalic600600italic700700italic-css'  href='https://fonts.googleapis.com/css?family=Josefin+Sans%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic&#038;subset=latin&#038;ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_google_fonts_lato100100italic300300italicregularitalic700700italic900900italic-css'  href='https://fonts.googleapis.com/css?family=Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic&#038;subset=latin&#038;ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyphoto-css'  href='https://lynweber.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/css/prettyPhoto.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_pageable_owl-carousel-css-css'  href='https://lynweber.com/wp-content/plugins/js_composer/assets/lib/owl-carousel2-dist/assets/owl.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css-css'  href='https://lynweber.com/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=5.6' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/lynweber.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"","font_method":"svg"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.10.2'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.5.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_fce46fa7962c7d01b7c08e3afdc664cc","fragment_name":"wc_fragments_fce46fa7962c7d01b7c08e3afdc664cc"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.5.4'></script>
+<script type='text/javascript'>
+		jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
+			jQuery( 'body' ).trigger( 'jetpack-lazy-images-load' );
+		} );
+	
+</script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/woocommerce-waitlist/includes/js/src/wcwl_frontend.min.js?ver=1.8.9'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/easy-testimonials/include/assets/js/jquery.cycle2.min.js?ver=5.1.3'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-includes/js/wp-embed.min.js?ver=5.1.3'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.6'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js?ver=5.6'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/js_composer/assets/lib/owl-carousel2-dist/owl.carousel.min.js?ver=5.6'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/js_composer/assets/lib/bower/imagesloaded/imagesloaded.pkgd.min.js?ver=5.1.3'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=5.6'></script>
+<script type='text/javascript' src='https://lynweber.com/wp-content/plugins/js_composer/assets/js/dist/vc_grid.min.js?ver=5.6'></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+
+					$( '.add_to_cart_button:not(.product_type_variable, .product_type_grouped)' ).click( function() {
+						ga( 'ec:addProduct', {'id': ($(this).data('product_sku')) ? ($(this).data('product_sku')) : ('#' + $(this).data('product_id')),'quantity': $(this).data('quantity')} );
+						ga( 'ec:setAction', 'add' );
+						ga( 'send', 'event', 'UX', 'click', 'add to cart' );
+					});
